@@ -1,0 +1,51 @@
+
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
+    margin: 0;
+    padding: 20px;
+} 
+
+h1 {
+    color: #a594f9;
+    font-size: 3rem;
+    padding-bottom: 3%;
+    text-align: center;
+    font-family: font-family 'Cabin', sans-serif;;
+}
+
+
+.btn {
+    color: fff;
+    background-color: #a594f9;
+    border-radius: 20%;
+    border: 0;
+}
+
+.felt{
+    padding-bottom: 5px;
+    border: 0,1;
+} 
+
+.knapp{
+    align-items: center;
+    text-align: center;
+}
+
+.number{
+    padding-top: 2%;
+}
+
+
+
+
+
+
+
+
+
